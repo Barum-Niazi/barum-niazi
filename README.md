@@ -18,6 +18,6 @@ Python, TypeScript, Node.js, Express, NestJS, Django, PostgreSQL, MySQL, SQL Ser
 
 ### Currently
 
-Data Engineer at ZigTech Solutions. Backend & Data Engineer at East Devs.
+Backend & Data Engineer at East Devs.
 
 Based in Lahore, Pakistan.
