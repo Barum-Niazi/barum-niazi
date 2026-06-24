@@ -1,19 +1,28 @@
-Backend and data engineer. Python, Node.js, PostgreSQL, AWS, Azure.
+### Hey, I'm Barum.
 
-Most of my work involves moving data between systems, building APIs, and keeping things running in production. ETL pipelines, warehouse syncs, scheduled jobs, backend infrastructure.
+Data engineer. I build pipelines, warehouses, and the apps that sit on top of them.
 
-### Some things I've worked on
+---
 
-- Data warehouse syncing 40+ QuickBooks entities into PostgreSQL with OAuth 2.0 and automated scheduling
-- Medallion architecture ETL on AWS for healthcare transaction processing
-- Game backend with real-money crypto payouts and a double-entry ledger
-- High-speed web scraper replacing hours of manual collection
-- Full-stack portals with React when the project calls for it
+#### What I'm doing now
 
-### Stack
+- **Rextag** — Data Engineer. Crude oil analytics, FERC regulatory data, GIS spatial pipelines, Snowflake migrations.
+- **ZigTech** — Backend & Data Engineer. Data warehouses, AI agents, backend services across multiple clients.
 
-Python, TypeScript, Node.js, Express, NestJS, Django, PostgreSQL, MySQL, SQL Server, AWS (S3, RDS, Lambda), Azure (Data Factory, Databricks), Docker, Linux
+---
 
-### Currently
+#### Stack
 
-Backend & Data Engineer at East Devs. Based in Lahore.
+**Languages** &nbsp; `Python` `TypeScript` `JavaScript` `SQL`
+
+**Data** &nbsp; `Snowflake` `PostgreSQL` `SQL Server` `Azure Data Factory` `Databricks` `pandas` `GeoParquet`
+
+**Backend** &nbsp; `Node.js` `Express` `Django` `FastAPI` `Bun` `Prisma`
+
+**Cloud** &nbsp; `Azure` `AWS` `Terraform` `Docker` `PM2` `DigitalOcean` `OVHcloud`
+
+**Frontend** &nbsp; `React` `Next.js` `Tailwind CSS`
+
+---
+
+<sub>Lahore, PK &nbsp;&middot;&nbsp; [barumkhan123@gmail.com](mailto:barumkhan123@gmail.com) &nbsp;&middot;&nbsp; [Portfolio](https://barum-niazi.github.io/portfolio/) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/barum-niazi/)</sub>
