@@ -6,8 +6,9 @@ Data engineer. I build pipelines, warehouses, and the apps that sit on top of th
 
 #### What I'm doing now
 
-- **Rextag** — Data Engineer. Crude oil analytics, FERC regulatory data, GIS spatial pipelines, Snowflake migrations.
-- **ZigTech** — Backend & Data Engineer. Data warehouses, AI agents, backend services across multiple clients.
+🔹 **Rextag** — Data Engineer. Crude oil analytics, FERC regulatory data, GIS spatial pipelines, Snowflake migrations.
+
+🔹 **ZigTech** — Backend & Data Engineer. Data warehouses, AI agents, backend services across multiple clients.
 
 ---
 
@@ -43,6 +44,15 @@ Data engineer. I build pipelines, warehouses, and the apps that sit on top of th
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 **Frontend**
 
